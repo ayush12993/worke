@@ -1,7 +1,7 @@
 #!/bin/bash
 branch=$1
 path=$2
-
+echo "create new script just to test push"
 echo "                                         "
 echo "*************************************"
 echo "  changing directory"
